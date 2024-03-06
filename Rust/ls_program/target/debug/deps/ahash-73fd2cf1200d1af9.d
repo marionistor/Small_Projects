@@ -1,0 +1,12 @@
+/home/mario/proiecte/Small_Projects/Rust/ls_program/target/debug/deps/libahash-73fd2cf1200d1af9.rmeta: /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/lib.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/convert.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/fallback_hash.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/operations.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/random_state.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/specialize.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/hash_map.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/hash_set.rs
+
+/home/mario/proiecte/Small_Projects/Rust/ls_program/target/debug/deps/ahash-73fd2cf1200d1af9.d: /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/lib.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/convert.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/fallback_hash.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/operations.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/random_state.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/specialize.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/hash_map.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/hash_set.rs
+
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/lib.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/convert.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/fallback_hash.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/operations.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/random_state.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/specialize.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/hash_map.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/hash_set.rs:

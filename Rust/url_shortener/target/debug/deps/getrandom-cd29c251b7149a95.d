@@ -1,0 +1,11 @@
+/home/mario/proiecte/Small_Projects/Rust/url_shortener/target/debug/deps/libgetrandom-cd29c251b7149a95.rmeta: /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/lib.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error_impls.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util_libc.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/use_file.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/linux_android.rs
+
+/home/mario/proiecte/Small_Projects/Rust/url_shortener/target/debug/deps/getrandom-cd29c251b7149a95.d: /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/lib.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error_impls.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util_libc.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/use_file.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/linux_android.rs
+
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/lib.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error_impls.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util_libc.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/use_file.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/linux_android.rs:

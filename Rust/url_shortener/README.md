@@ -1,0 +1,4 @@
+
+# URL shortener
+
+This Rust program is a simple URL shortener that either generates a short URL for a given long URL or retrieves the long URL associated with a given short URL. It takes the following command-line arguments: the URL, the filename containing URL mappings, and performs the corresponding operation. If the URL starts with "http," it generates a short URL and appends the pair to the specified file. If the URL does not start with "http," it searches the file for a matching short URL and prints the corresponding long URL. The program handles file I/O, error checking, and string manipulation to facilitate URL shortening and retrieval.

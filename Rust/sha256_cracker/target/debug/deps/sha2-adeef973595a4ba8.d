@@ -1,0 +1,13 @@
+/home/mario/proiecte/Small_Projects/Rust/sha256_cracker/target/debug/deps/libsha2-adeef973595a4ba8.rmeta: /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/lib.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/core_api.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha256.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha512.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/consts.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha256/soft.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha256/x86.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha512/soft.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha512/x86.rs
+
+/home/mario/proiecte/Small_Projects/Rust/sha256_cracker/target/debug/deps/sha2-adeef973595a4ba8.d: /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/lib.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/core_api.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha256.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha512.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/consts.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha256/soft.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha256/x86.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha512/soft.rs /home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha512/x86.rs
+
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/lib.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/core_api.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha256.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha512.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/consts.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha256/soft.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha256/x86.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha512/soft.rs:
+/home/mario/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.10.7/src/sha512/x86.rs:

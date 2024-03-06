@@ -1,0 +1,1 @@
+/home/mario/proiecte/Small_Projects/Rust/ls_program/target/debug/ls_program: /home/mario/proiecte/Small_Projects/Rust/ls_program/src/ls.rs /home/mario/proiecte/Small_Projects/Rust/ls_program/src/main.rs
