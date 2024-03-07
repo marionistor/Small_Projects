@@ -1,6 +1,6 @@
 # Description
 
-Some small but interesting projects written in python and rust.
+Some small but interesting programs written in python and rust.
 
 Python port scanner: https://github.com/marionistor/Small_Projects/tree/master/Python/port_scanner
 
